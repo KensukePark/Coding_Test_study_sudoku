@@ -1,4 +1,4 @@
-# Coding_study_sudoku
+# Coding_Test_study_sudoku
 Tested in Python 3.10.4
 
 # 입력
